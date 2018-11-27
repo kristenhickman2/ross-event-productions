@@ -1,0 +1,9 @@
+/********* HEADER *********/
+
+header {
+  height: 800px;
+  background-image: url("../ross-event-productions/img/poster-background.jpg");
+  background-size: 1200px;
+  opacity: 0.5;
+  background-repeat: no-repeat;
+}
